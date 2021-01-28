@@ -1,6 +1,7 @@
-# google_keep_clone_backend
+# Google Keep Clone Backend
 Google Keep Clone's backend, written in Typescript using Postgresql with Typeorm
 You can find the frontend repository [here](https://github.com/pioyi/google_keep_clone_frontend).
+<br />
 
 ## Built With
 
