@@ -7,6 +7,6 @@ You can find the frontend repository [here](https://github.com/pioyi/google_keep
 * [Typescript](https://www.typescriptlang.org/) - A strict syntactical superset of Javascript
 * [Node.js](https://nodejs.org/en/) - Server
 * [Json Web Tokens](https://jwt.io/) - Authentication / Authorization
-* [BcryptJS](https://www.npmjs.com/package/bcryptjs) - Password Hashing
+* [Bcrypt](https://www.npmjs.com/package/bcryptjs) - Password Hashing
 * [Postgresql + Typeorm](https://typeorm.io/) - SQL Database
 * [Class Validator](https://github.com/typestack/class-validator) - User Input Validatiion
